@@ -18,12 +18,18 @@ yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
 
 
 Langkah awal nya buat flowchartnya terlebih dahulu 
+
+
 ![image](Picture/FLowchart.png)
 
 setelah selesai buat source code nya seperti gambar dibawah ini :
+
+
+
 ![image](Picture/ss1.png)
 
-Penjelasan : 
+Penjelasan :
+
 - data =[["Japar",80],["Adit",70],["Bayu",90]]
     data diatas adalah list nama dan nilai yg akan kita gunakan dalam tugas ini 
 - disini saya menggunakan perulangan for 
@@ -46,6 +52,8 @@ def ubah(nama)  ==> ini berfungsi untuk mengubah nama yg akan kita ubah
 
 
 Hasil output nya akan seperti ini :
+
+
 ![image](Picture/ss2.png)
 
 

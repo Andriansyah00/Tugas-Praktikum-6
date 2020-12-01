@@ -8,12 +8,18 @@ NIM  : 312010011
 Kelas : TI.20.B1
 
 # Program Sederhana
+
 Soal :
+
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi
 yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan:
+
 • Fungsi tambah() untuk menambah data
+
 • Fungsi tapilkan() untuk menampilkan data
+
 • Fungsi hapus(nama) untuk menghapus data berdasarkan nama
+
 • Fungsi ubah(nama) untuk mengubah data berdasarkan nama
 
 
